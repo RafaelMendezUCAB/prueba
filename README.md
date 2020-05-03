@@ -7,9 +7,9 @@ Repositorio para el desarrollo de la aplicación web *Premileal*.
 Para poder obtener localmente el proyecto y así dar inicio al desarrollo y/o poder realizar pruebas, deberá abrir la consola de comandos
 y ejecutar lo siguiente:
     
-> git clone https://github.com/RafaelMendezUCAB/admin-premileal.git
+> git clone https://github.com/RafaelMendezUCAB/client-premileal.git
 
-> cd admin-premileal
+> cd client-premileal
 
 > npm i
 
