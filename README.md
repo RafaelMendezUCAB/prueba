@@ -9,7 +9,9 @@ Para poder obtener localmente el proyecto y así dar inicio al desarrollo y/o po
 y ejecutar lo siguiente:
     
 > git clone https://github.com/RafaelMendezUCAB/prueba.git
+
 > cd /prueba
+
 > npm i
 
 ¡Listo!, con los comandos anteriores, ya podrá comenzar a desarrollar. :computer:
