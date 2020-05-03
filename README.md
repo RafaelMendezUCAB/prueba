@@ -17,9 +17,9 @@ Una vez realizado lo anterior, habrá obtenido localmente una copia de cada uno 
 Para ejecutar cada uno de ellos, deberá ingresar a cada submódulo correspondiente y seguir las instrucciones allí descritas.
 
 Enlace a los distintos submódulos:
-- [App cliente - Premileal](https://github.com/RafaelMendezUCAB/client-premileal)
-- [API - Premileal](https://github.com/RafaelMendezUCAB/api-premileal)
-- [Herramienta Back-Office - Premileal](https://github.com/RafaelMendezUCAB/admin-premileal)
+- [App cliente - Premileal](https://github.com/RafaelMendezUCAB/client-premileal) :ticket:
+- [API - Premileal](https://github.com/RafaelMendezUCAB/api-premileal) :arrows_clockwise:
+- [Herramienta Back-Office - Premileal](https://github.com/RafaelMendezUCAB/admin-premileal) :busts_in_silhouette: 
 
 ## Administrador :computer:
 
