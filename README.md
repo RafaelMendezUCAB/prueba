@@ -1,6 +1,6 @@
 # ***Premileal***: API REST para el Sistema de Fidelización de Clientes :arrows_clockwise:
 
-Repositorio para el desarrollo de una API REST a ser consumida por la aplicación web y la herramient de Back-Office *Premileal*.
+Repositorio para el desarrollo de una API REST a ser consumida por la aplicación web y la herramienta de Back-Office *Premileal*.
 
 ## Primeros pasos :running:
 
