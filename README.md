@@ -14,13 +14,15 @@ y ejecutar lo siguiente:
 
 > npm i
 
-¡Listo!, con los comandos anteriores, ya podrá comenzar a desarrollar. :computer:
+¡Listo!, con los comandos anteriores, ya podrá comenzar a desarrollar. :tada:
+
+## Ejecución del proyecto :clapper:
 
 Para ejecutar el proyecto, deberá correr el siguiente comando: 
 
 > npm run serve
 
-# Developers
+# :computer: Developers :computer:
 
 - Gabriel
 - Christian
