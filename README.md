@@ -1,4 +1,4 @@
-# ***Consorcio3-premileal***: Repositorio de administración de submódulos para el Sistema de Fidelización de Clientes :pencil: 
+# ***Consorcio3-premileal***: Sistema de Fidelización de Clientes :pencil: 
 
 En este repositorio, se gestionará la actualización de cada uno de los submódulos que componen al proyecto conocido como
 ***Premileal***. El administrador será el responsable de mantener cada submódulo actualizado a su más reciente versión
