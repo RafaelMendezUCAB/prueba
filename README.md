@@ -1,50 +1,38 @@
-# prueba
-prueba usuario
+# ***Premileal***: Aplicación Web del Sistema de Fidelización de Clientes :ticket: 
 
-# Título 1
-Referencia a los títulos.
+Repositorio para el desarrollo de la aplicación web *Premileal*.
 
-## Subtítulo 1
-Muestra arriba de un subtítulo
+## Primeros pasos :running:
 
-###### Subtítulo 2
-El tipo de título mas pequeño. Ejemplo para una etiqueta.
+Para poder obtener localmente el proyecto y así dar inicio al desarrollo y/o poder realizar pruebas, deberá abrir la consola de comandos
+y ejecutar lo siguiente:
+    
+> git clone https://github.com/RafaelMendezUCAB/admin-premileal.git
 
-Texto en negrita: **Esto debe estar en negrita**
+> cd admin-premileal
 
-Texto en italica:  *Texto en italica*
+> npm i
 
-Texto tachado: ~~Texto tachado~~
+¡Listo!, con los comandos anteriores, ya podrá comenzar a desarrollar.
 
-Todo en negrita e italico: ***Este texto debe estar todo en negrita e italico***
+## Ejecución del proyecto :clapper:
 
-Hacer referencia a texto:
-> Texto referenciado.
+Para ejecutar el proyecto, deberá correr el siguiente comando: 
 
-Para los links: [Google](https://www.google.com/)
+> npm run serve
 
-Listas:
-- Elemento 1
-- Elemento 2
-- Elemento 3
+Con el comando anterior, el proyecto será ejecutado y éste se actualizará automáticamente a medida que vaya haciendo cambios en el código.
 
-1. Elemento enumerado 1
-2. Elemento enumerado 2
-3. Elemento enumerado 3
+## Permisos :closed_lock_with_key:
 
-Listas enlazadas:
-- Elemento 1
-    - Subelemento 1 del Elemento 1
-    - Subelemento 2 del Elemento 1
+Se requiere de algunas variables de entorno para tener acceso a las distintas funcionalidades que ofrece la aplicación y así poder realizar cambios y/o pruebas.
+Deberá crear un archivo **.env** en la carpeta base del proyecto. 
 
-Listas de tareas:
- - [] Hacer README.md
- - [] Implementar Sistema de Fidelización de Clientes.
- - [] Entregar proyecto.
+Deberá contactar a los desarrolladores para obtener las llaves necesarias
+para tener acceso completo a todas las funcionalidades.
 
-Utilizando Emojis:
-:+1: :shipit: :simple_smile: :smile: :dash: :eyes: :snowflake: :dog2: :new_moon: :camera: :iphone: :hourglass_flowing_sand:
-:mag: :mailbox: :key: :email: :money_with_wings: :door: :chart_with_downwards_trend: :date: :video_game: 
-:one: :two: :three: :four: :five: 
-:warning: :us: :es: :clock10: :white_check_mark: :red_circle: 
+## Developers :computer:
 
+- Gabriel
+- Christian
+- Rafael Méndez
