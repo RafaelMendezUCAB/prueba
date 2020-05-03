@@ -24,13 +24,13 @@ Para ejecutar el proyecto, deberá correr el siguiente comando:
 
 Con el comando anterior, el proyecto será ejecutado y éste se actualizará automáticamente a medida que vaya haciendo cambios en el código.
 
-# Permisos :closed_lock_with_key:
+## Permisos :closed_lock_with_key:
 
 Se requierede algunos tokens para tener acceso a las distintas funcionales que ofrece la apliación y poder así realizar cambios y/o pruebas.
 Deberá crear un archivo **.env** en la carpeta base del proyecto. Deberá contactar a los desarrolladores para obtener las llaves necesarias
 para tener acceso completo a todas las funcionalidades.
 
-# Developers :computer:
+## Developers :computer:
 
 - Gabriel
 - Christian
