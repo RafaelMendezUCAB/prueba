@@ -26,8 +26,10 @@ Con el comando anterior, el proyecto será ejecutado y éste se actualizará aut
 
 ## Permisos :closed_lock_with_key:
 
-Se requiere de algunas variable de entorno para tener acceso a las distintas funcionalidades que ofrece la aplicación y poder así realizar cambios y/o pruebas.
-Deberá crear un archivo **.env** en la carpeta base del proyecto. Deberá contactar a los desarrolladores para obtener las llaves necesarias
+Se requiere de algunas variables de entorno para tener acceso a las distintas funcionalidades que ofrece la aplicación y así poder realizar cambios y/o pruebas.
+Deberá crear un archivo **.env** en la carpeta base del proyecto. 
+
+Deberá contactar a los desarrolladores para obtener las llaves necesarias
 para tener acceso completo a todas las funcionalidades.
 
 ## Developers :computer:
