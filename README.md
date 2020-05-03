@@ -17,3 +17,9 @@ y ejecutar lo siguiente:
 Para ejecutar el proyecto, deberá correr el siguiente comando: 
 
 > npm run serve
+
+# Developers
+
+- Gabriel
+- Christian
+- Rafael Méndez
