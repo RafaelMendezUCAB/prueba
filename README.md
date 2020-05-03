@@ -1,6 +1,6 @@
 ## Propósito :memo:
 
-Se debe dar una descripción general de lo que este Pull Request representa (utilizar el apartado de "Características" para ser más específico).
+Se debe dar una descripción general de lo que se está pidiendo integrar en el Pull Request (utilizar el apartado de "Características" para ser más específico).
 
 ## Historia de usuario asociada :pushpin: 
 
