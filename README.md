@@ -38,5 +38,10 @@ para tener acceso completo a todas las funcionalidades.
 - Rafael Méndez
 
 -------------------------------------------------
+
+## Probando :computer:
 ##Apartado
 Esta es una Edicion de prueba para comprobar que mi cuenta de git tiene los datos correctos.
+## Usuarios :computer:
+## Clientes :computer:
+## Consumidores :computer:
